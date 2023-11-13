@@ -1,0 +1,194 @@
+{
+    "070600": {
+        "min_distance": 84,
+        "max_distance": 904,
+        "mean_distance": 491.7,
+        "min_time": 9,
+        "max_time": 117,
+        "mean_time": 77.1
+    },
+    "081900": {
+        "min_distance": 30,
+        "max_distance": 591,
+        "mean_distance": 303.8666666666667,
+        "min_time": 4,
+        "max_time": 73,
+        "mean_time": 38.86666666666667
+    },
+    "070400": {
+        "min_distance": 14,
+        "max_distance": 1295,
+        "mean_distance": 584.3047619047619,
+        "min_time": 1,
+        "max_time": 174,
+        "mean_time": 87.04285714285714
+    },
+    "071800": {
+        "min_distance": 7,
+        "max_distance": 1679,
+        "mean_distance": 633.5588235294117,
+        "min_time": 1,
+        "max_time": 298,
+        "mean_time": 93.06535947712419
+    },
+    "070500": {
+        "min_distance": 1,
+        "max_distance": 429,
+        "mean_distance": 165.38011695906434,
+        "min_time": 2,
+        "max_time": 74,
+        "mean_time": 35.0233918128655
+    },
+    "071000": {
+        "min_distance": 3,
+        "max_distance": 1354,
+        "mean_distance": 579.3188405797101,
+        "min_time": 1,
+        "max_time": 202,
+        "mean_time": 92.96920289855072
+    },
+    "081100": {
+        "min_distance": 1,
+        "max_distance": 1139,
+        "mean_distance": 477.0149425287356,
+        "min_time": 1,
+        "max_time": 174,
+        "mean_time": 66.8919540229885
+    },
+    "838300": {
+        "min_distance": 1,
+        "max_distance": 1475,
+        "mean_distance": 609.3741935483871,
+        "min_time": 4,
+        "max_time": 205,
+        "mean_time": 88.05591397849463
+    },
+    "832500": {
+        "min_distance": 6,
+        "max_distance": 1774,
+        "mean_distance": 686.4868951612904,
+        "min_time": 1,
+        "max_time": 268,
+        "mean_time": 87.88306451612904
+    },
+    "071100": {
+        "min_distance": 5,
+        "max_distance": 1400,
+        "mean_distance": 601.1297348484849,
+        "min_time": 1,
+        "max_time": 209,
+        "mean_time": 81.8465909090909
+    },
+    "842200": {
+        "min_distance": 7,
+        "max_distance": 2315,
+        "mean_distance": 908.0607287449393,
+        "min_time": 1,
+        "max_time": 338,
+        "mean_time": 116.95681511470985
+    },
+    "832600": {
+        "min_distance": 1,
+        "max_distance": 1368,
+        "mean_distance": 590.5717948717949,
+        "min_time": 1,
+        "max_time": 196,
+        "mean_time": 82.63589743589743
+    },
+    "070700": {
+        "min_distance": 8,
+        "max_distance": 1786,
+        "mean_distance": 565.0975609756098,
+        "min_time": 2,
+        "max_time": 225,
+        "mean_time": 103.56158536585366
+    },
+    "081000": {
+        "min_distance": 1,
+        "max_distance": 1345,
+        "mean_distance": 597.8963414634146,
+        "min_time": 1,
+        "max_time": 166,
+        "mean_time": 77.79146341463415
+    },
+    "080400": {
+        "min_distance": 3,
+        "max_distance": 1421,
+        "mean_distance": 495.7105496453901,
+        "min_time": 1,
+        "max_time": 209,
+        "mean_time": 76.84929078014184
+    },
+    "081300": {
+        "min_distance": 1,
+        "max_distance": 1141,
+        "mean_distance": 389.1841530054645,
+        "min_time": 1,
+        "max_time": 126,
+        "mean_time": 52.10218579234973
+    },
+    "081401": {
+        "min_distance": 3,
+        "max_distance": 1087,
+        "mean_distance": 476.7431693989071,
+        "min_time": 1,
+        "max_time": 98,
+        "mean_time": 46.58415300546448
+    },
+    "081201": {
+        "min_distance": 2,
+        "max_distance": 1152,
+        "mean_distance": 496.83999122036874,
+        "min_time": 1,
+        "max_time": 185,
+        "mean_time": 73.69490781387182
+    },
+    "081600": {
+        "min_distance": 1,
+        "max_distance": 1413,
+        "mean_distance": 487.57768987341774,
+        "min_time": 1,
+        "max_time": 148,
+        "mean_time": 60.81835443037975
+    },
+    "080300": {
+        "min_distance": 1,
+        "max_distance": 1632,
+        "mean_distance": 600.3172839506173,
+        "min_time": 1,
+        "max_time": 217,
+        "mean_time": 82.2429012345679
+    },
+    "081500": {
+        "min_distance": 1,
+        "max_distance": 1431,
+        "mean_distance": 512.595662140716,
+        "min_time": 1,
+        "max_time": 168,
+        "mean_time": 59.09557397284429
+    },
+    "081800": {
+        "min_distance": 1,
+        "max_distance": 1778,
+        "mean_distance": 654.7555364173228,
+        "min_time": 1,
+        "max_time": 243,
+        "mean_time": 85.50732037401575
+    },
+    "081700": {
+        "min_distance": 1,
+        "max_distance": 1687,
+        "mean_distance": 527.0380667236955,
+        "min_time": 1,
+        "max_time": 178,
+        "mean_time": 63.85646564014827
+    },
+    "320100": {
+        "min_distance": 1,
+        "max_distance": 2735,
+        "mean_distance": 841.7086223310214,
+        "min_time": 1,
+        "max_time": 268,
+        "mean_time": 98.07983136134911
+    }
+}
