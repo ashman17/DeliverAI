@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "@id": "node/5760814403", "amenity": "food_court", "name": "Arley D. Cathey Dinning Commons", "tractce10": "420300" }, "geometry": { "type": "Point", "coordinates": [ -87.6003837, 41.785073 ] } },
+{ "type": "Feature", "properties": { "@id": "node/5773800133", "amenity": "food_court", "name": "Hutchinson Commons Food Court", "tractce10": "836200" }, "geometry": { "type": "Point", "coordinates": [ -87.5987741, 41.7912253 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6344848994", "amenity": "food_court", "name": null, "tractce10": "640100" }, "geometry": { "type": "Point", "coordinates": [ -87.7419393, 41.7856571 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6397573806", "amenity": "food_court", "name": "Aster Hall", "tractce10": "081201" }, "geometry": { "type": "Point", "coordinates": [ -87.6252642, 41.8997256 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6446277948", "amenity": "food_court", "name": "One Eleven Food Hall", "tractce10": "500200" }, "geometry": { "type": "Point", "coordinates": [ -87.6023855, 41.69314 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6486883643", "amenity": "food_court", "name": "Politan Row", "tractce10": "833000" }, "geometry": { "type": "Point", "coordinates": [ -87.6541467, 41.8832891 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6632496502", "amenity": "food_court", "name": "Bartlett Dining Commons", "tractce10": "836200" }, "geometry": { "type": "Point", "coordinates": [ -87.5984991, 41.7920902 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6632496504", "amenity": "food_court", "name": "Baker Dining Commons", "tractce10": "836200" }, "geometry": { "type": "Point", "coordinates": [ -87.599234, 41.7944399 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6632496506", "amenity": "food_court", "name": "Sky Cafe", "tractce10": "836200" }, "geometry": { "type": "Point", "coordinates": [ -87.6044791, 41.7909273 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6932857335", "amenity": "food_court", "name": "Rustle & Roux", "tractce10": "839100" }, "geometry": { "type": "Point", "coordinates": [ -87.6347261, 41.8799403 ] } },
+{ "type": "Feature", "properties": { "@id": "node/6997474713", "amenity": "food_court", "name": "Time Out Market Chicago", "tractce10": "833000" }, "geometry": { "type": "Point", "coordinates": [ -87.6505461, 41.8869631 ] } },
+{ "type": "Feature", "properties": { "@id": "node/7955996907", "amenity": "food_court", "name": "Woodlawn Dining Commons", "tractce10": "420300" }, "geometry": { "type": "Point", "coordinates": [ -87.5966434, 41.784955 ] } },
+{ "type": "Feature", "properties": { "@id": "node/10142271246", "amenity": "food_court", "name": "Urbanspace", "tractce10": "839100" }, "geometry": { "type": "Point", "coordinates": [ -87.6285875, 41.8829319 ] } }
+]
+}
